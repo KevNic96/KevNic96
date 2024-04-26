@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently studying Computing Engineering at National University of La Matanza, Argentina.<br>🎯 Goals: I want to become a Full-Stack Developer, but first of all I want to be the greatest at Front-End.<br>🎲 Fun fact: My first name is Kevin so all new people call me like that and I hate it, instead you can call me Rulo</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently studying Computing Engineering at National University of La Matanza, Argentina.<br>🎯 Goals: I want to become a Full-Stack Developer, but first of all I want to be the greatest at Front-End.<br>🎲 Fun fact: My first name is Kevin so all new people call me like that and I hate it, instead you can call me "Rulo"😂</p>
 
 ###
 
